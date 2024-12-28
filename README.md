@@ -4,6 +4,8 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
+![Screenshot 2024-12-28 at 6 44 59 PM](https://github.com/user-attachments/assets/77ab4ec9-07b7-4114-9f2f-cc8ba709bbb8)
+
 ## Overview
 
 Pokedex Lite is an advanced web application built using the MERN (MongoDB, Express, React, Node.js) stack. It offers a sleek and interactive way to explore the Pokémon universe. With a responsive design and several powerful features, this app ensures an engaging experience for users across all devices.
@@ -13,6 +15,8 @@ The application leverages the PokéAPI (v2) to fetch Pokémon data and allows us
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
+
+![Screenshot 2024-12-28 at 7 00 16 PM](https://github.com/user-attachments/assets/388a2690-bcec-4620-945b-a8665a25d3d7)
 
 ## Features
 
