@@ -4,7 +4,7 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
-[Click here for Demo (Youtube Link)](youtu.be/sZ7TtTUkQyg)
+[Click here for Demo (Youtube Link)](https://www.youtube.com/watch?v=sZ7TtTUkQyg)
 
 ![Screenshot 2024-12-28 at 6 44 59 PM](https://github.com/user-attachments/assets/77ab4ec9-07b7-4114-9f2f-cc8ba709bbb8)
 
