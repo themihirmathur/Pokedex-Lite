@@ -59,7 +59,8 @@ I experimented with a simple login flow using OAuth providers like Google and Gi
 
 ![Screenshot 2024-12-28 at 6 52 51 PM](https://github.com/user-attachments/assets/3f12e3c3-607f-4707-9673-604ea41df76f)
 
-No one can just log in, it will check for the user details!
+No one can just `log in`, it will check for the user details!
+
 ![Screenshot 2024-12-28 at 6 52 24 PM](https://github.com/user-attachments/assets/3ad37904-04fd-48ff-ab30-3a9a65173f47)
 
 2. **Animations**  
