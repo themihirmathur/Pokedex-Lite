@@ -157,6 +157,12 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 --- 
 
+## **Contact**
+If you have any questions or feedback, feel free to reach out:  
+**Name**: Mihir Mathur  
+**Email**: [themihirmathur@gmail.com](mailto:themihirmathur@gmail.com)  
+**Phone**: +91-7525099328  
+
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
