@@ -105,8 +105,8 @@ Ensure you have the following installed on your system:
    ```
 
 4. Set up environment variables:
-   - Replace the `.env.example` file with a `.env` file.
-   - Update the following values:
+   - Make a `.env` file.
+   - Add the following values:
      - `MONGO_URI`: URI of your MongoDB instance.
      - `SECRET`: A randomly generated hash for encrypting passwords.
 
